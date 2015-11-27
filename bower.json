@@ -1,0 +1,24 @@
+{
+  "name": "wild-dashboard",
+  "version": "0.0.0",
+  "authors": [
+    "xiaoguangyu <xiaoguangyu@wilddog.com>"
+  ],
+  "description": "dashboard based on wilddog",
+  "keywords": [
+    "dashboard",
+    "wilddog"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~0.11.4",
+    "wild-angular": "~0.0.2"
+  }
+}
